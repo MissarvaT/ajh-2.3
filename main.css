@@ -1,0 +1,18 @@
+table {
+    color: #686461;
+    
+  }
+
+  th {
+    padding: 10px;
+    border: 1px solid #B9B29F;
+    padding: 10px;
+    text-align: left;
+    background: #E8E6D1; 
+  }
+  td {
+    padding: 10px;
+    border: 1px solid #B9B29F;
+    padding: 10px;
+    text-align: left;
+  }
